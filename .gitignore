@@ -3,6 +3,9 @@
 .env.local
 .env.*.local
 
+# הגדרות מקומיות אישיות של Claude Code (לא לשיתוף)
+.claude/settings.local.json
+
 # תלויות
 node_modules/
 
