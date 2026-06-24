@@ -6,7 +6,8 @@
       "Skill(update-config:*)",
       "Bash(bash -n .claude/hooks/git-autopush.sh)",
       "Bash(CLAUDE_PROJECT_DIR=\"/Users/danazilberstein/Desktop/dana-the 5 agents\" bash .claude/hooks/git-autopush.sh)",
-      "Bash(echo \"exit=$?\")"
+      "Bash(echo \"exit=$?\")",
+      "Bash(git ls-remote *)"
     ]
   }
 }
