@@ -1,0 +1,13 @@
+# משתני סביבה וסודות — לעולם לא להעלות ל-GitHub
+.env
+.env.local
+.env.*.local
+
+# תלויות
+node_modules/
+
+# קבצי מערכת
+.DS_Store
+
+# לוגים
+*.log
