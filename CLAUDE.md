@@ -8,7 +8,10 @@
 
 ## הצוות שלי
 
-- **יעל** — כותבת התוכן
+- **יעל** — כותבת התוכן. לוקחת מאמרי גלם מ-`Content/`, משכתבת בסגנון שלנו,
+  ושומרת תוצרים (Markdown + HTML) ב-`Output/`. סוכן: `.claude/agents/yael.md`.
+  - **Trigger keywords (HE):** שכתב, ערוך, נסח מחדש, תרגם, סכם, מאמר, תוכן, פוסט
+  - **Trigger keywords (EN):** rewrite, edit, rephrase, translate, summarize, article, content, post
 - **יובל** — מעצב התמונות
 - **חן** — החוקרת
 
